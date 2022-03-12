@@ -1,5 +1,5 @@
 import React from 'react';
-import home_background from '../Assets/wallpaper.png';
+import home_background from '../Assets/wallpaper.webp';
 import './Homepage.css';
 
 const Homepage = () => {
