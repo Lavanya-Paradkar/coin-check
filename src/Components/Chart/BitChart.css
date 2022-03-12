@@ -1,0 +1,16 @@
+.bitchart{
+  display: flex;
+  flex-direction: column;
+}
+
+.chart__label{
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(0, 45, 128);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
